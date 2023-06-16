@@ -30,8 +30,14 @@ span > a {
 
 #banana {
     position:absolute;
-    top: 10px;
-    left: -700px;
+    top: 3%;
+    left: 3%;
+}
+
+#logofloat {
+    position:absolute;
+    top: 20%;
+    left: 6%;
 }
 
 @media screen and (max-width: 600px) {
